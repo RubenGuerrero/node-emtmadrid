@@ -1,0 +1,22 @@
+{
+  "name": "node-emtmadrid",
+  "version": "1.0.0",
+  "description": "Nodejs API Client for EMT Madrid Open Data",
+  "main": "api.js",
+  "scripts": {
+    "test": "grunt test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/RubenGuerrero/node-emtmadrid.git"
+  },
+  "keywords": [
+    "nodejs",
+    "api",
+    "emtmadrid",
+    "open",
+    "data"
+  ],
+  "author": "Rubén Guerrero <yo@rubenguerrero.com>",
+  "license": "ISC"
+}
