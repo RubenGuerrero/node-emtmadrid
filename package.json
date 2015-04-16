@@ -18,5 +18,11 @@
     "data"
   ],
   "author": "Rubén Guerrero <yo@rubenguerrero.com>",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "moment": "^2.10.2",
+    "request-promise": "^0.4.2",
+    "underscore": "^1.8.3",
+    "winston": "^1.0.0"
+  }
 }
